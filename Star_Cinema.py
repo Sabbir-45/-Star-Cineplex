@@ -104,4 +104,5 @@ while True:
     user_input = int(input())
     swith_case(user_input)
     if user_input == 4:
+        print("Thank you for using Star Cineplex!")
         break
